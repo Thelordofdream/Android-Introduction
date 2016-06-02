@@ -1,7 +1,7 @@
 # Android-Introduction
 * [前言][]
 * [下载Android Studio前的准备][]  
-	VPN 与 JDK
+	[VPN][] 与 [JDK][]
 * 下载与安装Android Studio  
 	下载 与 安装
 * 开始运行Android Studio  
@@ -13,3 +13,5 @@
 
 [前言]:https://github.com/Thelordofdream/Android-Introduction/blob/master/前言.md
 [下载Android Studio前的准备]:https://github.com/Thelordofdream/Android-Introduction/blob/master/下载Android%20Studio前的准备.md
+[VPN]:https://github.com/Thelordofdream/Android-Introduction/blob/master/下载Android%20Studio前的准备.md#vpn
+[JDK]:https://github.com/Thelordofdream/Android-Introduction/blob/master/下载Android%20Studio前的准备.md#jdk
