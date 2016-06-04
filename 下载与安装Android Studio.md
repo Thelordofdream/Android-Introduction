@@ -20,4 +20,4 @@
 Mac OS的安装过程类似上述步骤。  
 
 如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。[Windows 7]:https://zh.wikipedia.org/wiki/Windows_7[Virtual Device]:https://zh.wikipedia.org/wiki/虛擬機器[Intel® HAXM]:https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager[内存]:https://zh.wikipedia.org/wiki/電腦記憶體
-[GB]:https://zh.wikipedia.org/wiki/GB[VC++]:https://zh.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
+[GB]:https://zh.wikipedia.org/wiki/吉字节[VC++]:https://zh.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
