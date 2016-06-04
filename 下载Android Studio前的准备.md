@@ -1,17 +1,17 @@
 # 下载Android Studio前的准备 
-## [VPN][]
-因为[GFW][]的存在，开发者在国内会无法访问Google Android的一些官方网站，更重要是在Android Studio版本更新、SDK下载和Build [Gradle][]的时候将无法连接到谷歌服务器。所以在开始下载安装Android Studio之前，读者需要自备[翻墙][]的工具。依据个人经验而言，做Android开发如果没有具备翻墙的技能，几乎是寸步难行的。  
-鉴于绝大部分免费翻墙软件都存在速度慢、不稳定、内容不纯净的问题，笔者在这里就直接推荐读者使用付费VPN。Windows平台上，笔者推荐“[云梯][]”；Mac OS平台上，笔者推荐“[鱼摆摆][]”。这两款VPN价格都很便宜，而且比较稳定，后者的速度偏慢一点但已经够用了。如果读者自己配备了私有的VPN服务器，自然是最好的。
+## [VPN]
+因为[GFW]的存在，开发者在国内会无法访问Google Android的一些官方网站，更重要是在Android Studio版本更新、SDK下载和Build [Gradle]的时候将无法连接到谷歌服务器。所以在开始下载安装Android Studio之前，读者需要自备[翻墙]的工具。依据个人经验而言，做Android开发如果没有具备翻墙的技能，几乎是寸步难行的。  
+鉴于绝大部分免费翻墙软件都存在速度慢、不稳定、内容不纯净的问题，笔者在这里就直接推荐读者使用付费VPN。Windows平台上，笔者推荐“[云梯]”；Mac OS平台上，笔者推荐“[鱼摆摆]”。这两款VPN价格都很便宜，而且比较稳定，后者的速度偏慢一点但已经够用了。如果读者自己配备了私有的VPN服务器，自然是最好的。
 
-## [JDK][]
+## [JDK]
 ### 下载JDK
-在开始基于[Java][]的Android开发之前，首先需要为自己的电脑安装Java JDK(Java Development Kit，面向开发者的Java组件)，搭建一个Java的开发环境和运行环境。  
-* 登录[Oracle(甲骨文)][]官网Java下载页面:
+在开始基于[Java]的Android开发之前，首先需要为自己的电脑安装Java JDK(Java Development Kit，面向开发者的Java组件)，搭建一个Java的开发环境和运行环境。  
+* 登录[Oracle(甲骨文)]官网Java下载页面:
 <http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html>;
 * 点击页面中的“JDK Download”进入JDK的下载页面:
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/001.png onload = 'this.width=400'/></div>
 * 点击“Accept License Agreement”同意许可;
-* 根据电脑情况选择适配的JDK版本，[Windows][] [32位][]电脑选择下载 “Windows [x86][]”，Windows [64位][]电脑选择下载“Windows [x64][]”，[Mac OS][]平台选择下载“[Mac OS X][]”;
+* 根据电脑情况选择适配的JDK版本，[Windows] [32位]电脑选择下载 “Windows [x86]”，Windows [64位]电脑选择下载“Windows [x64]”，[Mac OS]平台选择下载“[Mac OS X]”;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/002.png onload = 'this.width=400'/></div>
 * 点击左侧下载链接下载;
 * 双击Java JDK安装包“jdk-8u71-windows-x64”;
@@ -21,14 +21,14 @@
 
 如需验证Java JDK是否安装成功，可  
 
-* 打开[命令提示符(cmd)][];
+* 打开[命令提示符(cmd)];
 * 运行命令“java -version”;
 * 命令行返回正确的java信息，即为安装成功。
 
-Mac OS平台的安装过程类似以上步骤，其中在Mac OS上验证Java JDK需要打开[Terminal终端][]而指令相同，也可以在[Safari][]中通过Ocrale提供Java在线验证。
+Mac OS平台的安装过程类似以上步骤，其中在Mac OS上验证Java JDK需要打开[Terminal终端]而指令相同，也可以在[Safari]中通过Ocrale提供Java在线验证。
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/011.png onload = 'this.width=500'/></div>
-### 配置[环境变量][]
-下一步我们需要配置环境变量。在Windows平台上(以[Windows 8.1][]为例):  
+### 配置[环境变量]
+下一步我们需要配置环境变量。在Windows平台上(以[Windows 8.1]为例):  
 * 右键“开始按键”点击“系统”;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/003.png onload = 'this.width=300'/></div>* 点击“高级系统设置”;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/004.png onload = 'this.width=400'/></div>* 点击“环境变量”;
