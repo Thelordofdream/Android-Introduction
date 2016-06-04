@@ -11,7 +11,7 @@
 * 点击页面中的“JDK Download”进入JDK的下载页面:
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/001.png onload = 'this.width=400'/></div>
 * 点击“Accept License Agreement”同意许可;
-* 根据电脑情况选择适配的JDK版本，[Windows] [32位]电脑选择下载 “Windows [x86]”，Windows [64位]电脑选择下载“Windows [x64]”，[Mac OS]平台选择下载“[Mac OS X]”;
+* 根据电脑情况选择适配的JDK版本，[Windows][] [32位]电脑选择下载 “Windows [x86]”，Windows [64位]电脑选择下载“Windows [x64]”，[Mac OS]平台选择下载“[Mac OS X]”;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/002.png onload = 'this.width=400'/></div>
 * 点击左侧下载链接下载;
 * 双击Java JDK安装包“jdk-8u71-windows-x64”;
