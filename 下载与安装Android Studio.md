@@ -1,6 +1,8 @@
 # 下载与安装Android Studio 
 ## 下载
-登录Android Studio官网<http://www.android-studio.org>，在首页就可选择自己需要的Android Studio版本。目前Google提供了一个包含SDK Tools的Recommended版本，笔者推荐读者选择这个版本下载，可以免去翻墙安装SDK的烦恼。在官网中Google也向开发者提供了最新的v2.2正式版以及个别以往的重大版本，读者可以根据自己的喜好下载。  
+登录Android Studio官网<http://www.android-studio.org>，在首页就可选择自己需要的Android Studio版本。 
+ 
+在官网中，Google也向开发者提供了最新的v2.2正式版，同时提供了一个包含SDK Tools的Recommended版本，笔者推荐读者选择这个版本下载，可以免去翻墙安装SDK的烦恼。此外，Google还提供了个别以往的重大版本，读者可以根据自己的喜好下载。  
 
 ## 安装
 在[Windows 7]平台上，操作如下:  
@@ -15,5 +17,7 @@
 * 下一步后，就进入自动安装模式，Android Studio的运行需要[VC++]环境，请读者保持电脑联网，安装程序会自动完成安装;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/015.png onload = 'this.width=400'/></div>  
 
-Mac OS的安装过程类似上述步骤。[Windows 7]:https://zh.wikipedia.org/wiki/Windows_7[Virtual Device]:https://zh.wikipedia.org/wiki/虛擬機器[Intel® HAXM]:https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager[内存]:https://zh.wikipedia.org/wiki/電腦記憶體
+Mac OS的安装过程类似上述步骤。  
+
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。[Windows 7]:https://zh.wikipedia.org/wiki/Windows_7[Virtual Device]:https://zh.wikipedia.org/wiki/虛擬機器[Intel® HAXM]:https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager[内存]:https://zh.wikipedia.org/wiki/電腦記憶體
 [GB]:https://zh.wikipedia.org/wiki/GB[VC++]:https://zh.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B
