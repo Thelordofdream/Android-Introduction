@@ -22,7 +22,7 @@
 如需验证Java JDK是否安装成功，可  
 
 * 打开[命令提示符(cmd)];
-* 运行命令“java -version”;
+* 运行命令:<pre><code>java -version</code></pre>
 * 命令行返回正确的java信息，即为安装成功。
 
 Mac OS平台的安装过程类似以上步骤，其中在Mac OS上验证Java JDK需要打开[Terminal终端]而指令相同，也可以在[Safari]中通过Ocrale提供Java在线验证。
@@ -37,9 +37,9 @@ Mac OS平台的安装过程类似以上步骤，其中在Mac OS上验证Java JDK
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/006.png onload = 'this.width=400'/></div>
 * 在“系统变量”下点击“新建”，设置变量名为: JAVA_HOME，变量值为JDK安装目录，如: C:\Program Files\Java\jdk1.8.0_25 ;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/007.png onload = 'this.width=400'/></div>
-* 再点击“新建”，设置变量名为: CLASSPATH，变量值为: .;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar *(注意：点号表示当前目录，不能省略)*;
+* 再点击“新建”，设置变量名为: CLASSPATH，变量值为: <pre><code>.;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar</code></pre>*(注意：点号表示当前目录，不能省略)*;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/008.png onload = 'this.width=400'/></div>
-* 选择变量名为：Path的变量，点击“编辑”，在变量值的最前面添加字段: ;%JAVA_HOME%/bin; *(注意:这里的分号不能省略)*;  
+* 选择变量名为：Path的变量，点击“编辑”，在变量值的最前面添加字段: <pre><code>;%JAVA_HOME%/bin;</code></pre>*(注意:这里的分号不能省略)*;  
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/009.png onload = 'this.width=400'/></div>
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/010.png onload = 'this.width=400'/></div>  
 如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。[VPN]:https://zh.wikipedia.org/wiki/虛擬私人網路
