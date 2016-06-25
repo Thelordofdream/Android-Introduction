@@ -20,6 +20,6 @@
 * 在idea.properties文件末尾添加一行:disable.android.first.run=true，然后保存文件;
 * 关闭Android Studio后重新启动，便可进入界面;
 
-如果用户需要更新SDK，则操作与Windows端一致。
+如果用户需要更新SDK，则操作与Windows端一致。  
 如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。[Host Name]:https://zh.wikipedia.org/wiki/主機名稱[Port Number]:https://zh.wikipedia.org/wiki/通訊埠  
 [Finder]:https://zh.wikipedia.org/wiki/Finder  
