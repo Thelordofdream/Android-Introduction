@@ -23,7 +23,10 @@
 
 * 新的项目已经创建完成，等待Android Studio自动启动项目并Build Gradle即可。
 
-对于Windows端的读者，无如果法点击"Start a new Android Studio project"，则表示当前Android Studio的JDK 或者 Android SDK 目录指向有问题。那么你可以选择 Configure --> Project Defaults --> Project Structure，进入SDK和JDK路径的配置页面，将安装JDK的路径和SDK的目录确认配置好。
+对于Windows端的读者，如果无法点击"Start a new Android Studio project"，则表示当前Android Studio的JDK 或者 Android SDK 目录指向有问题。那么你可以选择 Configure --> Project Defaults --> Project Structure，进入SDK和JDK路径的配置页面，将安装JDK的路径和SDK的目录确认配置好。  
 
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/028.png onload = 'this.width=400'/></div>  
+
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。
 
 [HTTPS]:https://zh.wikipedia.org/zh-hans/超文本传输安全协议
