@@ -9,7 +9,7 @@
 * [设置HTTP Proxy][]  
 [基于HTTP协议的VPN] 与 [基于SOCKS协议的VPN]  
 * [下载和管理SDK][]
-* 创建Android新项目
+* [创建Android新项目][]
 * Android Studio工程目录简介
 * 基础控件与监听设置
 
