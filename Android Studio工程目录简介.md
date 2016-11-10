@@ -9,14 +9,9 @@ Android项目开发主要的工作在app这个目录下，Android高级开发会
 * Res一级子目录下的menu目录包含了app的菜单栏依赖文件menu.xml，读者可自行了解；  
 * Res一级子目录下的mipmap二级子目录中的ic_launcher.png三级子目录包含了各种分辨率下的app图标文件，均为png格式，开发者可以通过修改图标文件的指向路径来修改app的图标；  
 * Res一级子目录下：
-	* values二级子目录中包含了该工程下的宏变量：dimens.xml包含了所有尺寸的宏定义变量，此处开发者可以定义一些常用的尺寸；	* strings.xml包含了所有字符串的宏定义变量，此处开发者可以修改“app_name”的宏定义内容来修改app名字；	* styles.xml包含了app的style类型，修改  
-
-<pre><code><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"></code></pre>  
-
-语句中的内容即可改变app的风格，例如改为  
-
-<pre><code>Theme.AppCompat.Light.NoActionBar</code></pre>  
-
-即可去掉丑陋的菜单栏；  
+	* values二级子目录中包含了该工程下的宏变量：dimens.xml包含了所有尺寸的宏定义变量，此处开发者可以定义一些常用的尺寸；	* strings.xml包含了所有字符串的宏定义变量，此处开发者可以修改“app_name”的宏定义内容来修改app名字；	* styles.xml包含了app的style类型，修改：  
+`<style name="AppTheme" parent= "Theme.AppCompat.Light.DarkActionBar"> `
+ 中的语语句内容即可改变app的风格，例如改为：  
+`parent= "Theme.AppCompat.Light.NoActionBar"`
 
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/029.png onload = 'this.width=400'/></div>
