@@ -10,8 +10,8 @@
 [基于HTTP协议的VPN] 与 [基于SOCKS协议的VPN]  
 * [下载和管理SDK][]
 * [创建Android新项目][]
-* Android Studio工程目录简介
-* 基础控件与监听设置
+* [Android Studio工程目录简介][]
+* [基础控件与监听设置][]
 
 
 [前言]:https://github.com/Thelordofdream/Android-Introduction/blob/master/前言.md#前言
@@ -29,3 +29,4 @@
 [基于SOCKS协议的VPN]:https://github.com/Thelordofdream/Android-Introduction/blob/master/设置HTTP%20Proxy.md#基于socks协议的vpn
 [下载和管理SDK]:https://github.com/Thelordofdream/Android-Introduction/blob/master/下载和管理SDK.md#下载和管理sdk
 [创建Android新项目]:https://github.com/Thelordofdream/Android-Introduction/blob/master/创建Android新项目.md#创建android新项目
+[Android Studio工程目录简介]:https://github.com/Thelordofdream/Android-Introduction/blob/master/Android%20Studio工程目录简介.md#android-studio工程目录简介
