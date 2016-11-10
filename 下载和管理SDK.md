@@ -13,7 +13,7 @@
 	* Android 7.1.1   
 *(注意：Android 5.0以下的版本可以不考虑下载)*  
 
-<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/Android_5.0-en.png onload = 'this.width=125'/> <image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/Android_6.0-en.png onload = 'this.width=125'/> <image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/Android_7.0-en.png onload = 'this.width=125'/></div>  
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/Android_5.0-en.png onload = 'this.width=90'/> <image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/Android_6.0-en.png onload = 'this.width=90'/> <image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/Android_7.0-en.png onload = 'this.width=90'/></div>  
 
 <center>*Android 5.0 --> Android 6.0 --> Android 7.0*</center>  
 
