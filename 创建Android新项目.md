@@ -11,5 +11,10 @@
 
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/024.png onload = 'this.width=400'/></div>  
 
-* 选择Project类型，建议选择Basic Activity，点击"Next"；
-* 设置Activity Name（主界面名），可以不做修改,点击"Next"；
+* 选择Project类型，建议选择Basic Activity，点击"Next"；  
+
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/025.png onload = 'this.width=400'/></div>  
+
+* 设置Activity Name（主界面名），可以不做修改,点击"Next"；  
+
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/026.png onload = 'this.width=400'/></div>*
