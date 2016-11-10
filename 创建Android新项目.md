@@ -17,4 +17,13 @@
 
 * 设置Activity Name（主界面名），可以不做修改，点击"Finish"；  
 
-<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/026.png onload = 'this.width=400'/></div>  * 
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/026.png onload = 'this.width=400'/></div>  * 如果VPN支持[HTTPS]协议，则点选"Enable HTTPS Proxy"，一般VPN都支持且大部分自动下载的必须内容都是HTTPS协议的，所以建议点选，点击"OK"；  
+
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/027.png onload = 'this.width=400'/></div>  
+
+* 新的项目已经创建完成，等待Android Studio自动启动项目并Build Gradle即可。
+
+对于Windows端的读者，无如果法点击"Start a new Android Studio project"，则表示当前Android Studio的JDK 或者 Android SDK 目录指向有问题。那么你可以选择 Configure --> Project Defaults --> Project Structure，进入SDK和JDK路径的配置页面，将安装JDK的路径和SDK的目录确认配置好。
+
+
+[HTTPS]:https://zh.wikipedia.org/zh-hans/超文本传输安全协议
