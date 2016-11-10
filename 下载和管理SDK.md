@@ -26,7 +26,10 @@
 * 下载并安装完毕后，点击"Finish"完成相应SDK的安装；
 * 取消已经勾选的历史版本的Android SDK，并点击"Apply"或者"OK"，可以卸载掉相应的SDK。  
 
-如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。  
+
+[下一篇]
  
 
 [历史版本]:https://zh.wikipedia.org/wiki/Android歷史版本
+[下一篇]:https://github.com/Thelordofdream/Android-Introduction/blob/master/创建Android新项目.md#创建android新项目

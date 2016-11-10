@@ -35,10 +35,13 @@
 
 而后保持VPN正常运行，准备开始下载SDK和自动更新Gradle。  
 
-如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。  
+
+[下一篇]
 
 
 [Proxy]:https://zh.wikipedia.org/wiki/代理服务器
 [HTTP]:https://zh.wikipedia.org/wiki/超文本传输协议
 [SOCKS]:https://zh.wikipedia.org/wiki/SOCKS
-[Host name]:https://zh.wikipedia.org/wiki/主機名稱[Port number]:https://zh.wikipedia.org/wiki/通訊埠 
+[Host name]:https://zh.wikipedia.org/wiki/主機名稱[Port number]:https://zh.wikipedia.org/wiki/通訊埠
+[下一篇]:https://github.com/Thelordofdream/Android-Introduction/blob/master/下载和管理SDK.md#下载和管理sdk

@@ -22,5 +22,8 @@
 
 设置HTTP Proxy操作与Windows一致。  
 
-如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。  
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。  
+
+[下一篇]  
 [Finder]:https://zh.wikipedia.org/wiki/Finder  
+[下一篇]:https://github.com/Thelordofdream/Android-Introduction/blob/master/设置HTTP%20Proxy.md#设置http-proxy

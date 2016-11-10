@@ -40,9 +40,15 @@ Mac OS平台的安装过程类似以上步骤，其中在Mac OS上验证Java JDK
 * 再点击“新建”，设置变量名为: CLASSPATH，变量值为: <pre><code>.;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar</code></pre>*(注意：点号表示当前目录，不能省略)*;
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/008.png onload = 'this.width=400'/></div>
 * 选择变量名为：Path的变量，点击“编辑”，在变量值的最前面添加字段: <pre><code>;%JAVA_HOME%/bin;</code></pre>*(注意:这里的分号不能省略)*;  
-<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/009.png onload = 'this.width=400'/></div>
+
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/009.png onload = 'this.width=400'/></div>  
+
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/010.png onload = 'this.width=400'/></div>  
-如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。[VPN]:https://zh.wikipedia.org/wiki/虛擬私人網路
+  
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。  
+
+[下一篇]
+[VPN]:https://zh.wikipedia.org/wiki/虛擬私人網路
 [GFW]:https://zh.wikipedia.org/wiki/防火长城
 [Gradle]:https://zh.wikipedia.org/wiki/Gradle
 [翻墙]:https://zh.wikipedia.org/wiki/突破网络审查
@@ -63,3 +69,4 @@ Mac OS平台的安装过程类似以上步骤，其中在Mac OS上验证Java JDK
 [Safari]:https://zh.wikipedia.org/wiki/Safari
 [环境变量]:https://zh.wikipedia.org/wiki/环境变量
 [Windows 8.1]:https://zh.wikipedia.org/wiki/Windows_8.1
+[下一篇]:https://github.com/Thelordofdream/Android-Introduction/blob/master/下载与安装Android%20Studio.md#下载与安装android-studio
