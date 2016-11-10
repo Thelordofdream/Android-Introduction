@@ -14,4 +14,6 @@ Android项目开发主要的工作在app这个目录下，Android高级开发会
 中的语语句内容即可改变app的风格，例如改为：  
 `parent= "Theme.AppCompat.Light.NoActionBar"`
 
-<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/029.png onload = 'this.width=400'/></div>
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/029.png onload = 'this.width=400'/></div>  
+
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。
