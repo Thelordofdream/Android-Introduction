@@ -15,6 +15,6 @@
 
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/025.png onload = 'this.width=400'/></div>  
 
-* 设置Activity Name（主界面名），可以不做修改,点击"Next"；  
+* 设置Activity Name（主界面名），可以不做修改，点击"Finish"；  
 
-<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/026.png onload = 'this.width=400'/></div>*
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/026.png onload = 'this.width=400'/></div>  * 
