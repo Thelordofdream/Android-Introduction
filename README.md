@@ -28,3 +28,4 @@
 [基于HTTP协议的VPN]:https://github.com/Thelordofdream/Android-Introduction/blob/master/设置HTTP%20Proxy.md#基于http协议的vpn
 [基于SOCKS协议的VPN]:https://github.com/Thelordofdream/Android-Introduction/blob/master/设置HTTP%20Proxy.md#基于socks协议的vpn
 [下载和管理SDK]:https://github.com/Thelordofdream/Android-Introduction/blob/master/下载和管理SDK.md#下载和管理sdk
+[创建Android新项目]:https://github.com/Thelordofdream/Android-Introduction/blob/master/创建Android新项目.md#创建android新项目

@@ -7,4 +7,6 @@
 
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/023.png onload = 'this.width=400'/></div>
 
-* 
+* 选择想要的Phone and Tablet的Minimum SDK，最好选择为Android 6.0，因为；  
+
+<div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/024.png onload = 'this.width=400'/></div>
