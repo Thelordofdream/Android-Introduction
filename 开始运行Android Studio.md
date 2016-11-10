@@ -5,7 +5,7 @@
 * 在Android Studio安装目录下的 bin 目录下，找到 idea.properties 文件，在文件最后追加<pre><code>disable.android.first.run=true</code></pre>
 * 关闭Android Studio后重新启动，便可进入界面;
 
-如果读者后期需要更新SDK，需先设置Android Studio的HTTP配置环境中的Proxy Settings根据VPN的设置填写[Host Name][]、[Port Number][]等内容，使Android Studio在VPN开启时以这个配置连接谷歌服务器。之后，读者就可以在开启VPN后，更新Android Studio的SDK了。如果读者之前下载了Recommended版本，并没有必要时常进行更新。
+而后需要设置Android Studio的HTTP Proxy以下载SDK。
 
 ## macOS端
 首先，需要更改JDK的版本信息:  
@@ -20,6 +20,7 @@
 * 在idea.properties文件末尾添加一行:<pre><code>disable.android.first.run=true</code></pre>然后保存文件;
 * 关闭Android Studio后重新启动，便可进入界面;
 
-如果用户需要更新SDK，则操作与Windows端一致。  
-如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。[Host Name]:https://zh.wikipedia.org/wiki/主機名稱[Port Number]:https://zh.wikipedia.org/wiki/通訊埠  
+设置HTTP Proxy操作与Windows一致。  
+
+如对文本内容有改进建议或者反对意见者，可致信笔者电子邮箱告知笔者进行修改:<574483817@qq.com>。  
 [Finder]:https://zh.wikipedia.org/wiki/Finder  
