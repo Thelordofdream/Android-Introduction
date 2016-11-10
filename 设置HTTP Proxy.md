@@ -4,6 +4,7 @@
 
 * 点击右下角"Configure"按钮；
 * 点击"Preferences"选项，进入设置界面：  
+
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/019.png onload = 'this.width=200'/></div>  
 
 * 选择父级菜单"Appearance & Behavior"；  
@@ -11,7 +12,8 @@
 * 选择"Manual proxy configuration"。
 
 ## 基于[HTTP]协议的VPN  
-以基于HTTP协议的鱼摆摆为例，应填写配置信息如下：
+以基于HTTP协议的鱼摆摆为例，应填写配置信息如下：  
+
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/017.png onload = 'this.width=400'/></div>  
 
 * 选择协议为"HTTP"；  
