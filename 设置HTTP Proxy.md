@@ -1,13 +1,13 @@
 # 设置HTTP [Proxy]
 成功进入以后，会看到如下界面：
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/016.png onload = 'this.width=400'/></div>  
- 
+
 * 点击右下角"Configure"按钮；
 * 点击"Preferences"选项，进入设置界面：  
 <div align="center"><image src = https://raw.githubusercontent.com/Thelordofdream/Android-Introduction/master/images/019.png onload = 'this.width=200'/></div>  
 
-* 选择父级菜单"Appearance & Behavior"；
-* 选择一级子菜单"System Settings",进入HTTP Proxy设置；
+* 选择父级菜单"Appearance & Behavior"；  
+* 选择一级子菜单"System Settings",进入HTTP Proxy设置；  
 * 选择"Manual proxy configuration"。
 
 ## 基于[HTTP]协议的VPN  
