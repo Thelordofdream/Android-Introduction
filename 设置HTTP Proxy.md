@@ -20,7 +20,8 @@
 * 选择协议为"HTTP"；  
 * 本地[Host name]一般情况下为127.0.0.1；  
 * 鱼摆摆的[Port number]一般情况下为9743；
-* 无需帐号免费VPN后面的Proxy authentication不需要填写。  
+* 无需帐号免费VPN后面的Proxy authentication不需要填写；
+* 点击"Apply"应用设置。  
 
 ## 基于[SOCKS]协议的VPN
 以基于SOCKS5协议的Shadowocks为例，应填写配置信息如下：
@@ -29,7 +30,8 @@
 * 选择协议为"SOCKS"；
 * 本地Host name一般情况下为127.0.0.1；
 * Shadowsocks的Prot number一般情况下为1080，ShadowsocksX-NG的为1086；
-* 无需账户登录的情况下，Proxy authentication不需要填写。
+* 无需账户登录的情况下，Proxy authentication不需要填写；
+* 点击"Apply"应用设置。 
 
 而后保持VPN正常运行，准备开始下载SDK和自动更新Gradle。  
 
